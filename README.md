@@ -9,18 +9,25 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Procedure:
 1.Analyze the Given Image:
 Examine the image carefully and identify objects, colors, textures, lighting, background, composition, and style.
+
 2.Create the Basic Prompt:
 Write a simple description containing the main subject of the image.
+
 3.Refine the Prompt:
 Add details about colors, environment, lighting, time of day, and important objects.
+
 4.Identify Style:
 Specify the visual style, such as realistic photography, cinematic landscape, or high-resolution nature photography.
+
 5.Fine-Tune the Prompt:
 Add details about reflections, textures, perspective, depth, atmosphere, and composition.
+
 6.Generate the Image:
 Enter the final prompt into a text-to-image generation tool.
+
 7.Compare the Results:
 Compare the generated image with the reference image and identify similarities and differences.
+
 ## Tools/LLMs for Image Generation:
 ChatGPT / DALL·E
 Stable Diffusion
